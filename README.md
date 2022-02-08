@@ -3,7 +3,7 @@
 
 
 ### Server 실행 
-npm start
+<b>npm start</b>
 <br>
 port:3000
 
